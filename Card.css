@@ -1,0 +1,60 @@
+@media only screen and (max-width: 600px) {
+
+.cart-container {
+    width: 90%;
+    margin: 0 auto;
+  }
+  
+  .cart-items {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .cart-item {
+    display: flex;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+  }
+  
+  .item-image {
+    width: 200px;
+    height: 100px;
+    margin-right: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    
+  }
+  
+  .item-details {
+    flex: 1;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  div{
+    background-color: color-mix(in srgb, pink 70%, white);
+  }
+  h2{
+    background-color: orange;
+    color: ;
+    padding: 10px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+
+  }
+
+ 
+    
+
+  }
